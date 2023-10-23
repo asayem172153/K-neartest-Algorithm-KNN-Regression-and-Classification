@@ -8,5 +8,5 @@
      - Evaluate Testing and training Score
      - Evaluate MSE for test cases
    - Compare Linear Regression model with KNN regressor model
-   - Applied [KNN Classifier] (https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+   - Applied [KNN Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
      - Evaluate Accuracy only
